@@ -1,5 +1,5 @@
 // Jogo da Forca.cpp : Este arquivo contém a função 'main'. A execução do programa começa e termina ali.
-//
+// Uma alteração para enviar novamente ao git na branch novaAlteracao
 
 #include <iostream>
 #include <fstream>
