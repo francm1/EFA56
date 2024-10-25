@@ -1,0 +1,3 @@
+﻿  Jogo da Forca.cpp
+C:\Auxiliar\Programação - Fran\UF0810 - Programação C++ avançada\Jogo da Forca\Jogo da Forca\Jogo da Forca.cpp(152,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Jogo da Forca.vcxproj -> C:\Auxiliar\Programação - Fran\UF0810 - Programação C++ avançada\Jogo da Forca\x64\Debug\Jogo da Forca.exe

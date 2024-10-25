@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Auxiliar\\Programa\u00E7\u00E3o - Fran\\UF0810 - Programa\u00E7\u00E3o C\u002B\u002B avan\u00E7ada\\Jogo da Forca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D706A9-611B-4F78-A0A1-872AB4EF99A9}|Jogo da Forca\\Jogo da Forca.vcxproj|C:\\Auxiliar\\Programa\u00E7\u00E3o - Fran\\UF0810 - Programa\u00E7\u00E3o C\u002B\u002B avan\u00E7ada\\Jogo da Forca\\Jogo da Forca\\Jogo da Forca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72D706A9-611B-4F78-A0A1-872AB4EF99A9}|Jogo da Forca\\Jogo da Forca.vcxproj|solutionrelative:Jogo da Forca\\Jogo da Forca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jogo da Forca.cpp",
+              "DocumentMoniker": "C:\\Auxiliar\\Programa\u00E7\u00E3o - Fran\\UF0810 - Programa\u00E7\u00E3o C\u002B\u002B avan\u00E7ada\\Jogo da Forca\\Jogo da Forca\\Jogo da Forca.cpp",
+              "RelativeDocumentMoniker": "Jogo da Forca\\Jogo da Forca.cpp",
+              "ToolTip": "C:\\Auxiliar\\Programa\u00E7\u00E3o - Fran\\UF0810 - Programa\u00E7\u00E3o C\u002B\u002B avan\u00E7ada\\Jogo da Forca\\Jogo da Forca\\Jogo da Forca.cpp",
+              "RelativeToolTip": "Jogo da Forca\\Jogo da Forca.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T08:54:45.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

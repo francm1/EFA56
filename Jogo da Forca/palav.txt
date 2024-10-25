@@ -1,0 +1,7 @@
+mesa
+computador
+impressora
+cadeira
+janela
+casa
+sol
